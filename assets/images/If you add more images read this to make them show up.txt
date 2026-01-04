@@ -1,0 +1,4 @@
+You have to run this command from the root of the folder the website is stored in
+powershell -NoProfile -ExecutionPolicy Bypass -File ".\scripts\generate-image-manifest.ps1"
+
+Open powershell and CD into the folder and it will update and the website will show the new photos. 
